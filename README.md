@@ -3,7 +3,7 @@
 ### Hola 👋, my name is Alan
 Hola, Me defino como persona proactiva, organizada y responsable, con ambiciones aprender lo absoluto que hacen mejorar la productividad, cerelidad y eficiencia en proyectos personales y laborales, Me gustaria poder demostrar lo que e aprendido y que mejor forma trabajar algo que me apaciona
 
-Habilidades:  REACT / JS / HTML / CSS / MySQL / PHP / KOTLIN / 
+Habilidades:  REACT / JS / HTML / CSS / MySQL  
 
 - 🔭 Estoy trabajando en this page. 
 - 🌱 Estoy aprendiendo Mucho mas lenguajes como C / C++ / C#  y Back-end 
