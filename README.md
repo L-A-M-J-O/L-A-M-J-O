@@ -1,4 +1,3 @@
-![Naranjo](https://user-images.githubusercontent.com/85073731/180599931-80c31573-3d90-4f4a-b82b-3508576cf5f3.gif)
 
 # Hola 👋, my name is Alan
 Hola, Me defino como persona proactiva, organizada y responsable, con ambiciones aprender lo absoluto que hacen mejorar la productividad, cerelidad y eficiencia en proyectos personales y laborales, Me gustaria poder demostrar lo que e aprendido y que mejor forma trabajar algo que me apaciona
