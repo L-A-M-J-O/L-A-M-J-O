@@ -1,5 +1,5 @@
+![Presentación](https://user-images.githubusercontent.com/85073731/180600980-3f7c4759-eeee-4636-8c01-bd4c087d1431.gif)
 
-![Presentación-Alan](https://user-images.githubusercontent.com/85073731/180600939-af3cddbc-0740-4c08-b176-2045b3631825.gif)
 
 
 # Hola 👋, my name is Alan
