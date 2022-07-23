@@ -1,7 +1,5 @@
-### Hi there 👋
 
-<!--
-**L-A-M-J-O/L-A-M-J-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ALan Naranjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
