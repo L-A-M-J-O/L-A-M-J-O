@@ -1,6 +1,5 @@
 
-
-https://user-images.githubusercontent.com/85073731/180600580-bcccca6c-54bb-443a-a6d5-2e93be752fe3.mp4
+![Presentación-Alan](https://user-images.githubusercontent.com/85073731/180600939-af3cddbc-0740-4c08-b176-2045b3631825.gif)
 
 
 # Hola 👋, my name is Alan
