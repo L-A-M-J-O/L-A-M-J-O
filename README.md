@@ -1,7 +1,8 @@
 
 # Hola 👋, my name is Alan
 
-[Rosado Neón y Verde Gradiente Mes del Orgullo Trivia Quiz Presentación](https://user-images.githubusercontent.com/85073731/194732066-97e64b5b-356d-4792-8fff-db428f77eb90.gif)
+![Rosado Neón y Verde Gradiente Mes del Orgullo Trivia Quiz Presentación](https://user-images.githubusercontent.com/85073731/194732084-b8334471-661b-49ac-8a3b-f5da7af452b2.gif)
+
 
 Hola, Me defino como persona proactiva, organizada y responsable, con ambiciones aprender lo absoluto que hacen mejorar la productividad, cerelidad y eficiencia en proyectos personales y laborales, Me gustaria poder demostrar lo que e aprendido y que mejor forma trabajar algo que me apaciona
 
