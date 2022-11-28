@@ -2,7 +2,6 @@
 # Hola 👋, my name is Alan
 
 
-![Gif-Alan](https://user-images.githubusercontent.com/85073731/194732131-b66422d0-a72e-47e0-a148-86cc34b82567.gif)
 
 Hola, Me defino como persona proactiva, organizada y responsable, con ambiciones aprender lo absoluto que hacen mejorar la productividad, cerelidad y eficiencia en proyectos personales y laborales, Me gustaria poder demostrar lo que e aprendido y que mejor forma trabajar algo que me apaciona
 
