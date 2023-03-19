@@ -17,7 +17,7 @@
   <img align="center" alt="lamjo-Vue3" height="30" width="30" src="https://www.svgrepo.com/show/354131/nuxt-icon.svg"/>
   <img align="center" alt="lamjo-Vue3" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU"/>
 </div>
-<div>
+<div stlye="aling-text: center"><br/>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bradleygcf&show_icons=true&locale=en&layout=compact" alt="bradleygcf" /></p>
 </div>
 
