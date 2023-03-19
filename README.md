@@ -1,33 +1,15 @@
 
-# Hola 👋, my name is Alan
+# Hi 👋, my name is Alan
 
-
-
-Hola, Me defino como persona proactiva, organizada y responsable, con ambiciones aprender lo absoluto que hacen mejorar la productividad, cerelidad y eficiencia en proyectos personales y laborales, Me gustaria poder demostrar lo que e aprendido y que mejor forma trabajar algo que me apaciona
-
-- 🔭 Estoy trabajando en this page. 
-- 🌱 Estoy aprendiendo Mucho mas lenguajes como C / C++ / C#  y Back-end 
 - 👯 Quiero colaborar con con proyectos que me quieran unir me gusta enseñar y explicarle a las personas  
 - 📫 Cómo contactarme: https://portfolio-alan-naranjo.vercel.app/
 
 <img align="center" alt="cover" width="1200" height="300" src="https://indoanalytica.com/static/images/bannerr.gif">
-<h1 align="center">Hi 👋, I'm Bradley</h1>
-<h3 align="center">A passionate full-stack developer from Venezuela</h3>
+<h3 align="center">Software Architect / Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <a href="https://twitter.com/@bradley_dev22" target="blank"><img src="https://img.shields.io/twitter/follow/@bradley_dev22?logo=twitter&style=for-the-badge" alt="@bradley_dev22" /></a> </p>
+<p align="left"> <a href="https://twitter.com/LAMJO7" target="blank"><img src="https://img.shields.io/twitter/follow/@bradley_dev22?logo=twitter&style=for-the-badge" alt="@LAMJO" /></a> </p>
 
-- 🔭 I’m currently working on [The Gaming Farm](https://the-gamig-farm-pf-rho.vercel.app/)
-
-- 🌱 I’m currently learning **flask, material UI, selenium,**
-
-- 👨‍💻 All of my projects are available at [In process...](In process...)
-
-- 💬 Ask me about **react, react native, web scraping**
-
-- 📫 How to reach me **carucib@gmail.com**
-
-- 📄 Know about my experiences [https://i.ibb.co/6BWDqs0/BRADLEY-CARUCI-CV.jpg](https://i.ibb.co/6BWDqs0/BRADLEY-CARUCI-CV.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
