@@ -17,7 +17,7 @@
   <img align="center" alt="lamjo-Nuxt3" height="30" width="30" src="https://www.svgrepo.com/show/354131/nuxt-icon.svg"/>
   <img align="center" alt="lamjo-JS" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU"/>
  <img align="center" alt="lamjo-Angular" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"/>
- <img align="center" alt="lamjo-C" height="30" width="30" src="https://disenowebakus.net/imagenes/articulos/lenguaje-de-programacion-c.jpg"/>
+ <img align="center" alt="lamjo-C" height="30" width="30" src="https://w7.pngwing.com/pngs/694/533/png-transparent-the-c-programming-language-internet-explorer-miscellaneous-blue-cdr.png"/>
  
   <div stlye="aling-text: center"><br/>
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=L-A-M-J-O&show_icons=true&locale=en&layout=compact" alt="bradleygcf" /></p>
