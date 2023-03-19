@@ -18,8 +18,8 @@
   <img align="center" alt="lamjo-Vue3" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU"/>
 </div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bradleygcf&show_icons=true&locale=en&layout=compact" alt="bradleygcf" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-a-m-j-of&show_icons=true&locale=en&layout=compact" alt="lamjo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bradleygcf&show_icons=true&locale=en" alt="bradleygcf" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bradleygcf&show_icons=true&locale=en" alt="lamjo" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bradleygcf&" alt="bradleygcf" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bradleygcf&" alt="lamjo" /></p>
