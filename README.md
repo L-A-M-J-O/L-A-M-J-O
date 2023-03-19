@@ -19,7 +19,7 @@
  <img align="center" alt="lamjo-Angular" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"/>
  <img align="center" alt="lamjo-C" height="30" width="30" src="https://w7.pngwing.com/pngs/694/533/png-transparent-the-c-programming-language-internet-explorer-miscellaneous-blue-cdr.png"/>
   <img align="center" alt="lamjo-C" height="30" width="30" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"/>
- <img align="center" alt="lamjo-C" height="30" width="30" src="https://1000logos.net/wp-content/uploads/2020/08/MySQL-Logo.jpg"/>
+ <img align="center" alt="lamjo-C" height="30" width="30" src="https://pngimg.com/uploads/mysql/mysql_PNG11.png"/>
  
   <div stlye="aling-text: center"><br/>
    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=L-A-M-J-O&show_icons=true&locale=en&layout=compact" alt="bradleygcf" /></p>
