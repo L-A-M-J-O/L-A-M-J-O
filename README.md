@@ -12,8 +12,14 @@
 
 <div style="display: inline_block"><br>
   <h3 align="left">Languages and Tools:</h3>
-  <img align="center" alt="lamjo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="lamjo-Vue3" height="30" width="40" src="https://vuejs.org//images/logo.png"/>
-  <img align="center" alt="lamjo-Vue3" height="30" width="40" src="https://www.svgrepo.com/show/354131/nuxt-icon.svg"/>
-  <img align="center" alt="lamjo-Vue3" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU"/>
+  <img align="center" alt="lamjo-React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
+  <img align="center" alt="lamjo-Vue3" height="30" width="30" src="https://vuejs.org//images/logo.png"/>
+  <img align="center" alt="lamjo-Vue3" height="30" width="30" src="https://www.svgrepo.com/show/354131/nuxt-icon.svg"/>
+  <img align="center" alt="lamjo-Vue3" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU"/>
 </div>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bradleygcf&show_icons=true&locale=en&layout=compact" alt="bradleygcf" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bradleygcf&show_icons=true&locale=en" alt="bradleygcf" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bradleygcf&" alt="bradleygcf" /></p>
