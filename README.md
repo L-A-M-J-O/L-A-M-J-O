@@ -1,29 +1,48 @@
+# Hi, I'm Alan 👋
 
-# Hi 👋, my name is Alan
+**Frontend & Full-Stack Engineer** focused on **Vue 3, Nuxt 3, React, Next.js, Node.js and product-driven systems**.
 
-- 👯 Quiero colaborar con con proyectos que me quieran unir me gusta enseñar y explicarle a las personas  
-- 📫 Cómo contactarme: https://portfolio-alan-naranjo.vercel.app/
+I build modern admin panels, SaaS products, internal tools and business software with strong attention to **UX/UI, architecture, performance and real business impact**.
 
-<div> 
- <a href="https://discord.com/channels/683416789434368002/683416789438562304" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "lamjo30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alann3009200330092003/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+## What I do
 
-<div style="display: inline_block"><br>
-  <h3 align="left">Languages and Tools:</h3>
-  <img align="center" alt="lamjo-React" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="lamjo-Vue3" height="30" width="30" src="https://vuejs.org//images/logo.png"/>
-  <img align="center" alt="lamjo-Nuxt3" height="30" width="30" src="https://www.svgrepo.com/show/354131/nuxt-icon.svg"/>
-  <img align="center" alt="lamjo-JS" height="30" width="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTab05l3ndGtZqyqxgTeOkmB7g2eDGyYrQp60gRu108tIEXOLQTl8tf9Jpx90UiNJEIv1Q&usqp=CAU"/>
- <img align="center" alt="lamjo-Angular" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/1200px-Angular_full_color_logo.svg.png"/>
- <img align="center" alt="lamjo-C" height="30" width="30" src="https://w7.pngwing.com/pngs/694/533/png-transparent-the-c-programming-language-internet-explorer-miscellaneous-blue-cdr.png"/>
-  <img align="center" alt="lamjo-C" height="30" width="30" src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png"/>
- <img align="center" alt="lamjo-C" height="30" width="30" src="https://pngimg.com/uploads/mysql/mysql_PNG11.png"/>
- 
-  <div stlye="aling-text: center"><br/>
-   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=L-A-M-J-O&show_icons=true&locale=en&layout=compact" alt="bradleygcf" /></p>
-  </div>
-</div>
+- Build scalable frontends with **Vue 3 / Nuxt 3** and **React / Next.js**
+- Design clean product experiences with strong **UX/UI** thinking
+- Develop APIs and business logic with **Node.js**, **FastAPI** and backend integrations
+- Create digital products for real businesses through **OranX21**
 
+## Current focus
 
+- Building **OranX21 TPV**
+- Improving my public portfolio and developer brand
+- Open to strong opportunities in **Frontend**, **Full-Stack**, **Vue/Nuxt** and **React/Next**
+
+## Main stack
+
+**Frontend**  
+Vue 3 · Nuxt 3 · React · Next.js · TypeScript · JavaScript · Tailwind CSS
+
+**Backend**  
+Node.js · Express · NestJS · FastAPI · REST APIs
+
+**Tools**  
+Git · GitHub · Docker · Figma · Jira · Vite · Pinia
+
+## Featured work
+
+Here are the kinds of projects I want this profile to represent:
+
+- SaaS dashboards and admin systems
+- POS / TPV products for restaurants and commerce
+- Marketing and automation tools
+- Internal tools with strong UX and clean architecture
+
+## Contact
+
+- Portfolio: **https://portfolio-alan-naranjo.vercel.app/**
+- LinkedIn: **https://www.linkedin.com/in/alann3009200330092003/**
+- GitHub: **https://github.com/L-A-M-J-O**
+
+---
+
+> Building useful products, not just interfaces.
